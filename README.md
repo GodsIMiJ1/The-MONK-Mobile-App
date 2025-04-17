@@ -108,4 +108,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-© 2023 GodsIMiJ AI Solutions. All rights reserved.
+© 2025 GodsIMiJ AI Solutions. All rights reserved.
